@@ -41,7 +41,7 @@ To use this configuration:
 
 1. Clone this repository to your home directory or preferred location.
 ```bash
-   git clone <repository_url>
+   git clone https://github.com/dnlmrtn/i3-config
 ```
 
 2. Replace your existing i3 configuration file (~/.config/i3/config) with the config file from this repository.
